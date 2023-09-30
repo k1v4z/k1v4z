@@ -1,16 +1,13 @@
 ### About Me  👋
+<b>I'm Nguyen Nhat Thao</b><br>
+<b>I am a student at </b>[Duy Tan University](https://duytan.edu.vn/) <br>
 
-<!--
-**k1v4z/k1v4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img align="center" src="./icon/facebook.png/" title = "Facebook" alt="" height="20" /> [k1v4z](https://www.facebook.com/k1v4z) 
+- <img align="center" src="./icon/mail.webp/" title = "Email" alt="" height="20" /> ye60second@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️I am learning Android now.
+<br>
+## Github Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=k1v4z&theme=react)](https://git.io/streak-stats)
+## Github Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k1v4z&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
