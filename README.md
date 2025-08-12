@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working with **React.js, Next.js, TypeScript, Node.js**
-- 💬 Ask me about **Frontend Architecture, Clean Code, and UI/UX**
 - ⚡ Fun fact: I love running 🏃‍♂️ and building micro SaaS projects
 ## 🛠 Tech Stack
 ### 💻 Frontend
